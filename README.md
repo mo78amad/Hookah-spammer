@@ -1,7 +1,7 @@
 ## 😎 Discord WebHook Spammer.
 
   <kbd>
-<img src="[https://cdn.discordapp.com/attachments/1037652968838791178/1044334454405074955/Untitled.png](https://files.oaiusercontent.com/file-LX5wbunpKYXuSVnXSZQSAF?se=2025-01-17T00%3A07%3A38Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D7fb9a1ad-b79d-4030-a80d-b8193752e07a.webp&sig=iErJdSPAqJMN6jPyue9zL3jpL6kcQnqEXivXSRXS6oU%3D)" width="600"></img>
+<img src="https://assets.pinterest.com/ext/embed.html?id=748653138093277309" width="600"></img>
   </kbd>
 
 It is a dedicated discord tool that continuously sends information to the channel discord<br>
